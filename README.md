@@ -4,3 +4,4 @@ To get how it's work, go to main V0.6.py
 
 Otherwise, this is the kind of resultat it can do:  
 this is the temperature of the surface at the end of the simulation
+![alt text](https://github.com/MrBounty/PythonThermalNodes/blob/main/Figure_1.png)
